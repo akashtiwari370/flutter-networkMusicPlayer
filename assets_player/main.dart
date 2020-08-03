@@ -10,6 +10,6 @@ void main() {
 class app extends StatelessWidget {
   @override
   build(BuildContext context) {
-    return home();
+    return music();
   }
 }
